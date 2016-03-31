@@ -3,11 +3,11 @@
   <parent>
     <groupId>com.yog.webapp</groupId>
     <artifactId>rest-project</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
   </parent>
-  <groupId>com.yog.webapp</groupId>
+  
   <artifactId>dataaccessservice</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
   <packaging>jar</packaging>
   
   <name>Data Access Service</name>
@@ -16,8 +16,12 @@
   		<dependency>
 	  		 <groupId>com.yog.webapp</groupId>
 			  <artifactId>base</artifactId>
-			  <version>0.0.1-SNAPSHOT</version>
+			  <version>0.0.2-SNAPSHOT</version>
   		</dependency>
+  		<dependency>
+		     <groupId>org.springframework.boot</groupId>
+	          <artifactId>spring-boot-starter-data-mongodb</artifactId>
+		</dependency>
   </dependencies>
   
 </project>

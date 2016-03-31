@@ -7,7 +7,7 @@
   </parent>
   <groupId>com.yog.webapp</groupId>
   <artifactId>rest-project</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
   <packaging>pom</packaging>
   
   <name>Spring Boot Application</name>

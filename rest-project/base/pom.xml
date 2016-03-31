@@ -3,11 +3,10 @@
   <parent>
     <groupId>com.yog.webapp</groupId>
     <artifactId>rest-project</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.2-SNAPSHOT</version>
   </parent>
-  <groupId>com.yog.webapp</groupId>
   <artifactId>base</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.2-SNAPSHOT</version>
   <packaging>jar</packaging>
   
   <name>Base</name>
@@ -20,7 +19,7 @@
 	   	<dependency>
   			<groupId>com.yog.webapp</groupId>
   			<artifactId>core</artifactId>
-  			<version>0.0.1-SNAPSHOT</version>
+  			<version>0.0.2-SNAPSHOT</version>
   		</dependency>
   </dependencies>
   
