@@ -3,7 +3,8 @@ This is a simple REST web service that creates and retrieves birds.
 1) Build the project using the top level pom file under rest-poject using-
 mvn clean install
 
-2) Start the web application on default Tomcat port(8080) from the webapp project using-
+2) Start the web application on default Tomcat port(8080) 
+from the webapp project using-
 mvn spring-boot:run
 
 It provides the following operations.
